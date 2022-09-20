@@ -1,0 +1,10 @@
+//I worked on this homework assignment alone, using only course materials
+
+Bad1 - Error occurs at compile time. The class name 'BAD1' is all caps when it should be 'Bad1' since the name of the
+java file is Bad1.java
+
+Bad2 - Error occurs at run-time. The program tries to divide by 0 which is impossible, hence we get an error at
+run-time. To fix it I just switched b and a in the formula so that 0 is in the numerator.
+
+Bad3 - Error occurs at compile time. The program incorrectly assigns the String method type to an input that is of
+primitive type char. To fix this, we can change the single quotes to double quotes to state that the input is a string.
